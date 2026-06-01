@@ -131,14 +131,7 @@ Senior Data & Machine Learning Engineer with **5+ years** of experience building
 
 ---
 
-## 💼 Experience Timeline
 
-```
-🏥  Centene Corporation  →  Generative AI Engineer       Apr 2024 – Present
-💰  Edward Jones         →  Machine Learning Engineer    Jul 2023 – Mar 2024
-📡  AT&T (Accenture)     →  Data Scientist               Aug 2022 – Dec 2022
-💊  Ajanta Pharma        →  Data Scientist               Mar 2020 – Jul 2021
-```
 
 ---
 
