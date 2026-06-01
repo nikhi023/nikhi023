@@ -25,7 +25,7 @@
 
 > *I don't just train models — I engineer the systems that make them unstoppable.*
 
-Senior Data & Machine Learning Engineer with **5+ years** of experience building enterprise-grade AI pipelines, feature engineering platforms, and distributed data systems across **healthcare, finance, telecom, and pharma**. Currently driving Generative AI innovation at **Centene Corporation**.
+Senior Data & Machine Learning Engineer with **5+ years** of experience building enterprise-grade AI pipelines, feature engineering platforms, and distributed data systems across **healthcare, finance, telecom, and pharma**. Currently driving Generative AI innovation .
 
 - 🏥 Designing production **GenAI & RAG systems** in healthcare that move the needle on real outcomes
 - 🧠 Deep expertise in **LLMs, Agentic AI, and vector search** — LangChain & LangGraph are home turf
